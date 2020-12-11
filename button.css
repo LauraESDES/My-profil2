@@ -1,0 +1,13 @@
+.btn-twitter {
+	color:rgb(47, 108, 157); 
+	border-radius: 3px;
+	padding: 10px 15px;
+	text-decoration: none;
+	background-color: white
+}
+
+.btn-twitter:hover {
+	text-decoration: none;
+	color: white;
+	background-color:rgb(47, 108, 157);
+}

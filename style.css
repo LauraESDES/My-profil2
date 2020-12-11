@@ -1,0 +1,50 @@
+
+@import url("component/banner.css");
+@import url("component/button.css");
+@import url("component/card.css");
+
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive|Indie+Flower|Montserrat|Open+Sans');
+		
+body {
+	font-family: "Open Sans", "helvetica", "Sans-serif";
+	padding-bottom: 200px;
+}
+
+
+h1, h2, h3, h4 {
+	font-family: "Montserrat", Sans-serif;
+	color: rgb(47, 108, 157);
+}
+h5, { 
+font-family: "Montserrat", Sans-serif;
+color: white
+}
+
+h4 { 
+display: flex;
+justify-content: flex-start;
+}
+
+h2 {
+padding-right: 20px;
+display: flex;
+justify-content: flex-start;
+}
+
+a { 
+color: black; 
+}
+
+.container { 
+padding-top: 50px ; 
+}
+
+.footer { 
+display: inline;
+padding: 20px; 
+font-size: 50px; 
+}
+
+h2, span { 
+padding-left: 50px:  
+}
